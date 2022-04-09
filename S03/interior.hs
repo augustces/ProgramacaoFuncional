@@ -1,0 +1,1 @@
+interior x = init( tail( x ) )
