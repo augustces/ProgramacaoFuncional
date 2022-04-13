@@ -1,0 +1,1 @@
+somaImpar xs = sum( [x | x <- xs, (mod x 2 /= 0)] )
