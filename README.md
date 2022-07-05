@@ -38,5 +38,5 @@
 | [S13 - ORDENAÇÃO](https://github.com/augustces/ProgramacaoFuncional/tree/main/S13) |
 | ------------------------------------------------------------- |
 
-| [S14 - NOVAS](https://github.com/augustces/ProgramacaoFuncional/tree/main/S0514) |
+| [S14 - NOVAS](https://github.com/augustces/ProgramacaoFuncional/tree/main/S14) |
 | ------------------------------------------------------------- |
