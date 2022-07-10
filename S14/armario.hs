@@ -2,7 +2,6 @@ import qualified Data.Map as Map
 import Data.Either
 import Data.Map
 import Data.Maybe (isJust, fromMaybe)
-import System.Win32 (COORD(x))
 data Estado = Alugado | Livre deriving (Show, Eq)
 type Codigo = String
 type Armario = (Estado, Codigo)
