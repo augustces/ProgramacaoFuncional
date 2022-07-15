@@ -40,3 +40,9 @@
 
 | [S14 - NOVAS](https://github.com/augustces/ProgramacaoFuncional/tree/main/S14) |
 | ------------------------------------------------------------- |
+
+| [Distancia](https://github.com/augustces/ProgramacaoFuncional/tree/main/Distancia) |
+| ------------------------------------------------------------- |
+
+| [Pedra na Lua](https://github.com/augustces/ProgramacaoFuncional/tree/main/Pedra%20na%20Lua) |
+| ------------------------------------------------------------- |
